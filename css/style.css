@@ -1169,6 +1169,7 @@ h6 { font-size: 16px; }
 .cavani_tm_about .testimonials .list ul li .list_inner{
 	width: 100%;
 	height: auto;
+	display: block;
 	clear: both;
 	float: left;
 	position: relative;
